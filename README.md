@@ -1,5 +1,5 @@
 # IMPROVING PSEUDO-LABELS SELECTION USING DOMAIN PRIORS FOR SEMI-SUPERVISED DETECTION IN CAPSULE ENDOSCOPY
-This is an official implementation for ICIP2025 paper ["IMPROVING PSEUDO-LABELS SELECTION USING DOMAIN PRIORS FOR SEMI-SUPERVISED DETECTION IN CAPSULE ENDOSCOPY"]([https://xxxx.pdf](https://ieeexplore.ieee.org/document/11084329)). 
+This is an official implementation for ICIP2025 paper ["IMPROVING PSEUDO-LABELS SELECTION USING DOMAIN PRIORS FOR SEMI-SUPERVISED DETECTION IN CAPSULE ENDOSCOPY"]([(https://ieeexplore.ieee.org/document/11084329])). 
 
 <!-- by [Peng Mi](), [Jianghang Lin](https://github.com/HunterJ-Lin), [Yiyi Zhou](), [Yunhang Shen](), [Gen Luo](), [Xiaoshuai Sun](), [Liujuan Cao](), [Rongrong Fu](), [Qiang Xu](), [Rongrong Ji](). -->
 <!-- Conference on Computer Vision and Pattern Recognition (CVPR) 2022 Paper.</br> -->
